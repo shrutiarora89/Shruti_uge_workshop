@@ -1,0 +1,159 @@
+history >> moving_around.txt #appending the existing file
+ls -l moving_around.txt #Size of the file
+# Print out history up to this point
+ls -l moving_around.txt 
+history >> moving_around.txt 
+ls -t|less
+history |less
+ls -t
+ls
+history > moving_around.txt
+pwd
+man less
+history| less 
+history
+cd ~
+subl
+cd Chrome\ Apps.localized/
+cd applications
+ls /
+cd../Downloads
+cd ../Downloads
+cd src
+cd../..
+cd../~
+..
+cd ..
+cd Applications
+cd dr-xr-xr-x
+cd drwxr-xr-x@
+cd drwr-xr-x@
+ls -l
+cd /
+ls -G
+-G
+ls -i
+man ls
+ls -a
+ls -rlt
+ls -rt
+ls -r
+cd ~/Downloads/
+cd ~/Documents
+cd ~/D
+cd
+git version
+git varsion
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'shruti.arora89@icloud.com'
+git config --global user.name 'Shruti Arora'
+git 
+echo $PATH
+subl /etc/paths
+echo $EDITOR 
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+brew update
+brew help
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+uname
+cd application
+cd 
+subl ~/.config/bash
+subl .
+cd donut_shop
+cd desktop/jquerysample
+git clone https://github.com/bbice/donut_shop.git
+cd jquerysample
+cd desktop
+mkdir jquerysample
+mkdir
+https://github.com/bbice/donut_shop.git
+mkv
+cd codefellow
+mkdir codefellow 
+vectocode fellows
+man cd
+cd projects
+-l
+ ls
+$ ls -l ~
+nano
+cd -
+cd-
+cd Library/cd../..
+cd ../..
+cd Library/Preferences
+cd..
+cd library
+ls -lah
+ls -la
+9~ ls -la
+ls-l
+/users/
+man echo
+tcsh
+echo $0
+echo $SHELL
+banner -w20 "hello world"
+echo -n "hello" ;echo "world"
+echo "hello world"
+echo -n 'hello' ; echo 'world'
+-n 'Hello'; echo 'world'
+echo -n 'Hello';echo'World'
+echo 'Hello'; echo 'Weorld'
+banner -w50 'Hello World'
+banner-w50'Hello World'
+-lah
+-w50 "Hello World"
+less
+-r
+cp
+man man
+man
+~
+cd~
+ls -l ~
+ls -l~
+CLEAR
+cat FL_insurance_sample.csv | sort -n -k 1
+man sor
+cat FL_insurance_sample.csv | sort -n -f 1 -d, 
+cat FL_insurance_sample.csv | sort -n -f1 -d, 
+cat FL_insurance_sample.csv | grep "167630"
+cat FL_insurance_sample.csv | head -1
+cat FL_insurance_sample.csv | wc -l
+cat FL_insurance_sample.csv
+cat FL_insurance_sample.csv | head -5
+cat FL_insurance_sample.csv | head -f
+cat FL_insurance_sample.csv | head -g
+cat FL_insurance_sample.csv | head -10
+cat FL_insurance_sample.csv | head -2
+cat FL_insurance_sample.csv | head -0
+cd /Users/shrutiarora/Downloads
+find . | grep -i "IMG_19.*\.jpg"
+find . | grep -i "19.*\.jpg"
+find . | grep -i "19*.jpg"
+find "19.*\.jpg" .
+find . "19.*\.jpg"
+find . "19*.jpg"
+clear
+find . "*.jpg"
+cd Dropbox
+cd /Users/
+ioq
+cd /Users
+open .
+open public.jpg 
+cd design/
+cd portfolio/
+open terest.jpg
+open /Users/shrutiarora
