@@ -1,10 +1,11 @@
-# git 
+# Edited by Lindsey
+# git
 
 history >> moving_around.txt #appending the existing file
 ls -l moving_around.txt #Size of the file
 # Print out history up to this point
-ls -l moving_around.txt 
-history >> moving_around.txt 
+ls -l moving_around.txt
+history >> moving_around.txt
 ls -t|less
 history |less
 ls -t
@@ -12,7 +13,7 @@ ls
 history > moving_around.txt
 pwd
 man less
-history| less 
+history| less
 history
 cd ~
 subl
@@ -50,10 +51,10 @@ curl -fsSL http://git.io/QxUaOQ | sh
 curl -fsSL http://git.io/7UHtNA | sh
 git config --global user.email 'shruti.arora89@icloud.com'
 git config --global user.name 'Shruti Arora'
-git 
+git
 echo $PATH
 subl /etc/paths
-echo $EDITOR 
+echo $EDITOR
 subl ~/.config/fish/config.fish
 ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
 brew info fish
@@ -68,7 +69,7 @@ brew help
 ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
 uname
 cd application
-cd 
+cd
 subl ~/.config/bash
 subl .
 cd donut_shop
@@ -81,7 +82,7 @@ mkdir
 https://github.com/bbice/donut_shop.git
 mkv
 cd codefellow
-mkdir codefellow 
+mkdir codefellow
 vectocode fellows
 man cd
 cd projects
@@ -128,8 +129,8 @@ ls -l~
 CLEAR
 cat FL_insurance_sample.csv | sort -n -k 1
 man sor
-cat FL_insurance_sample.csv | sort -n -f 1 -d, 
-cat FL_insurance_sample.csv | sort -n -f1 -d, 
+cat FL_insurance_sample.csv | sort -n -f 1 -d,
+cat FL_insurance_sample.csv | sort -n -f1 -d,
 cat FL_insurance_sample.csv | grep "167630"
 cat FL_insurance_sample.csv | head -1
 cat FL_insurance_sample.csv | wc -l
@@ -154,7 +155,7 @@ cd /Users/
 ioq
 cd /Users
 open .
-open public.jpg 
+open public.jpg
 cd design/
 cd portfolio/
 open terest.jpg
