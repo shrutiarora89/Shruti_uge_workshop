@@ -1,3 +1,5 @@
+# git 
+
 history >> moving_around.txt #appending the existing file
 ls -l moving_around.txt #Size of the file
 # Print out history up to this point
